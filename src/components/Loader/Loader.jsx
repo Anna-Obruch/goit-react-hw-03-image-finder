@@ -9,7 +9,7 @@ export const Loader = () => {
       ariaLabel="vortex-loading"
       wrapperStyle={{}}
       wrapperClass="vortex-wrapper"
-      colors={[, 'green', 'blue', 'yellow', , 'purple']}
+      colors={[ 'green', 'blue', 'yellow', 'purple']}
     />
   );
 };
